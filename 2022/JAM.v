@@ -17,7 +17,7 @@ output reg Valid );
 integer i;
 
 parameter  Catch        = 0,  
-		   Find_pt      = 1,
+	   Find_pt      = 1,
            Find_min     = 2,
            Reverse_list = 3,
            Got_cost     = 4,
